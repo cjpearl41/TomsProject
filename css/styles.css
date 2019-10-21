@@ -1,3 +1,21 @@
 body{
     background-color: #687e9e;
 }
+.home{
+    text-align:center;
+    background-color:#682e18;
+    color:#065c12;
+}
+hr{
+    background-color:#00fff2;
+}
+h1{
+    font-family: 'Josefin Sans', sans-serif;
+}
+h2{
+    font-family: 'Source Serif Pro', serif;
+}
+p{
+    font-family: 'Abel', sans-serif;
+    font-size: 20px;
+}
