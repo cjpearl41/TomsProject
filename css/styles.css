@@ -1,10 +1,20 @@
 body{
     background-color: #687e9e;
+    text-align:center;
+    
+}
+.content{
+    line-height: 50px;
+    margin-left:275px;
+    margin-right:275px;
 }
 .home{
     text-align:center;
-    background-color:#682e18;
+    background-color:#8a1010;
     color:#065c12;
+    margin-left: 650px;
+    margin-right:650px;
+    margin-top:25px;
 }
 hr{
     background-color:#00fff2;
